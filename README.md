@@ -73,9 +73,6 @@ pip install -r requirements.txt
 pip install rich pycryptodome
 --------------------------------------------------
 
-<img width="1663" height="691" alt="Image" src="https://github.com/user-attachments/assets/0405d09c-bf4a-45ca-bd6b-b74b04ba7268" />
-Usage
-
 
 # Start listener
 python rev0shell.py --lhost 192.168.1.6 --lport 4444
