@@ -71,9 +71,9 @@ cd Rev0shell
 pip install -r requirements.txt
 # or
 pip install rich pycryptodome
-
 --------------------------------------------------
 
+<img width="1663" height="691" alt="Image" src="https://github.com/user-attachments/assets/0405d09c-bf4a-45ca-bd6b-b74b04ba7268" />
 Usage
 
 # Start listener
